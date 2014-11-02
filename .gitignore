@@ -1,0 +1,4 @@
+# Don't sync generated files to GitHub, just sources
+*.elf
+*.hex
+*.o
